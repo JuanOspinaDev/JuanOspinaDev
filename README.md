@@ -1,33 +1,49 @@
-<h1 align="center">Hola 👋, soy Juan Ospina</h1>
-<p align="center">Estudiante de Ingeniería de Sistemas | Universidad Nacional de Colombia | Aficionado al Senderismo y Trekking</p>
+<h1 align="center">¡Hola! 👋 Soy Juan Ospina</h1>
+<p align="center">Estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia | Aficionado al Senderismo y Trekking</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanOspinaDev&label=Profile%20views&color=blue&style=flat-square" alt="JuanOspinaDev" />
+  <img src="https://komarev.com/ghpvc/?username=JuanOspinaDev&label=Vistas%20del%20perfil&color=blue&style=flat-square" alt="JuanOspinaDev" />
 </p>
 
 ## Sobre mí
-Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia. Apasionado por la tecnología, el desarrollo de software, y amante de la naturaleza, especialmente del senderismo y el trekking.
+Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia. Apasionado por la tecnología y el desarrollo de software, además de ser un amante de la naturaleza, especialmente del senderismo y el trekking.
 
-- 🔭 Actualmente estoy trabajando en **proyectos académicos, laborales y personales relacionados con sistemas de información**
-- 👯 Busco colaborar en **proyectos de código abierto y aplicaciones que impacten positivamente a la comunidad**
-- 🤔 Estoy buscando ayuda con **avanzar en conocimientos de cloud computing y DevOps**
-- 💬 Pregúntame sobre **todo lo relacionado con el desarrollo de software y mi experiencia estudiantil**
-- 📫 Cómo contactarme: **[Haz clic aquí para enviarme un correo](mailto:juanospinadev@example.com)**
-- 😄 Pronombres: **Él/He/Him**
-- ⚡ Dato curioso: **Me encanta planificar rutas de senderismo y explorar nuevas montañas en mi tiempo libre**
+- 🔭 Actualmente estoy trabajando en **proyectos académicos, laborales y personales relacionados con sistemas de información**.
+- 👯 Busco colaborar en **proyectos de código abierto y aplicaciones que impacten positivamente en la comunidad**.
+- 💬 Pregúntame sobre **todo lo relacionado con el desarrollo de software y mi experiencia estudiantil**.
+- 📫 Cómo contactarme: **[Haz clic aquí para enviarme un correo](mailto:juanospinadev@example.com)**.
+- 😄 Pronombres: **Él/He/Him**.
+- ⚡ Dato curioso: **Me encanta planificar rutas de senderismo y explorar nuevas montañas en mi tiempo libre**.
 
 ## Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="LinkedIn.png" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
 ## Lenguajes y Herramientas
+### Backend
 <p align="center">
   <!-- Agrega los íconos de tus habilidades aquí, asegúrate de subir los íconos a tu repositorio o usar enlaces directos -->
+  <img src="java-icon.png" alt="Java" width="40" height="40"/>
+  <img src="Go.png" alt="Go" width="40" height="40"/>
+  <img src="c-sharp.png" alt="C#" width="40" height="40"/>
+  <img src="python.png" alt="Python" width="40" height="40"/>
+</p>
+
+### Frontend
+<p align="center">
   <img src="javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="angular-icon.svg" alt="Angular" width="40" height="40"/>
-  <img src="java-icon.svg" alt="Java" width="40" height="40"/>
-  <!-- y así sucesivamente -->
+  <img src="typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="react.png" alt="React" width="40" height="40"/>
+  <img src="html-icon.svg" alt="HTML" width="40" height="40"/>
+  <img src="css-icon.svg" alt="CSS" width="40" height="40"/>
+</p>
+
+### Bases de Datos
+<p align="center">
+  <img src="mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  <img src="postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
 ## Estadísticas de GitHub
