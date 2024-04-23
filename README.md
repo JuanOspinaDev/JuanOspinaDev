@@ -17,7 +17,7 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
 
 ## Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="LinkedIn.png" alt="LinkedIn" width="60" height="50"/></a>
+  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="LinkedIn.png" alt="LinkedIn" width="70" height="50"/></a>
 </p>
 
 ## Lenguajes y Herramientas
