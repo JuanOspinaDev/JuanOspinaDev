@@ -17,7 +17,7 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
 
 ## Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="LinkedIn.png" alt="LinkedIn" width="50" height="60"/></a>
+  <a href="https://www.linkedin.com/in/juanospinaos/"><img src="LinkedIn.png" alt="LinkedIn" width="60" height="50"/></a>
 </p>
 
 ## Lenguajes y Herramientas
@@ -25,7 +25,7 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
 <p align="center">
   <!-- Agrega los íconos de tus habilidades aquí, asegúrate de subir los íconos a tu repositorio o usar enlaces directos -->
   <img src="Java.png" alt="Java" width="50" height="50"/>
-  <img src="Go.png" alt="Go" width="70" height="70"/>
+  <img src="Go.png" alt="Go" width="65" height="65"/>
   <img src="c-sharp.png" alt="C#" width="50" height="50"/>
   <img src="Python.png" alt="Python" width="50" height="50"/>
 </p>
@@ -35,13 +35,13 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
   <img src="Javascript.png" alt="JavaScript" width="50" height="50"/>
   <img src="Typescript.png" alt="TypeScript" width="50" height="50"/>
   <img src="React.png" alt="React" width="50" height="50"/>
-  <img src="html.png" alt="HTML" width="60" height="60"/>
-  <img src="css.png" alt="CSS" width="50" height="50"/>
+  <img src="html.png" alt="HTML" width="50" height="50"/>
+  <img src="css.png" alt="CSS" width="60" height="60"/>
 </p>
 
 ### Bases de Datos
 <p align="center">
-  <img src="MySQL.png" alt="MySQL" width="70" height="70"/>
+  <img src="MySQL.png" alt="MySQL" width="63" height="63"/>
   <img src="PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
   <img src="Mongodb.png" alt="MongoDB" width="50" height="50"/>
 </p>
