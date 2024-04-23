@@ -27,23 +27,23 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
   <img src="java-icon.png" alt="Java" width="40" height="40"/>
   <img src="Go.png" alt="Go" width="40" height="40"/>
   <img src="c-sharp.png" alt="C#" width="40" height="40"/>
-  <img src="python.png" alt="Python" width="40" height="40"/>
+  <img src="Python.png" alt="Python" width="40" height="40"/>
 </p>
 
 ### Frontend
 <p align="center">
-  <img src="javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="Javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="Typescript.png" alt="TypeScript" width="40" height="40"/>
   <img src="react.png" alt="React" width="40" height="40"/>
-  <img src="html-icon.svg" alt="HTML" width="40" height="40"/>
-  <img src="css-icon.svg" alt="CSS" width="40" height="40"/>
+  <img src="html.png" alt="HTML" width="40" height="40"/>
+  <img src="css.png" alt="CSS" width="40" height="40"/>
 </p>
 
 ### Bases de Datos
 <p align="center">
-  <img src="mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  <img src="postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="Mysql.png" alt="MySQL" width="40" height="40"/>
+  <img src="Postgre.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="Mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
 ## Estadísticas de GitHub
