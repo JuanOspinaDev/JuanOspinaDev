@@ -34,15 +34,15 @@ Soy un entusiasta estudiante de Ingeniería de Sistemas en la Universidad Nacion
 <p align="center">
   <img src="Javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="Typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="react.png" alt="React" width="40" height="40"/>
+  <img src="React.png" alt="React" width="40" height="40"/>
   <img src="html.png" alt="HTML" width="40" height="40"/>
   <img src="css.png" alt="CSS" width="40" height="40"/>
 </p>
 
 ### Bases de Datos
 <p align="center">
-  <img src="Mysql.png" alt="MySQL" width="40" height="40"/>
-  <img src="Postgre.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="MySQL.png" alt="MySQL" width="40" height="40"/>
+  <img src="PostgreSQL.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="Mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
